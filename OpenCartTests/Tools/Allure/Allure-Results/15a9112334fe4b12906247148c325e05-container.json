@@ -1,0 +1,59 @@
+{
+  "uuid": "d0ba5e2d-1e3d-4b8d-8817-3f2800fe5ad8-tc-0-1006",
+  "name": "OpenCartTests.Tests.Yurii_Kanafotskyi.EditAccountTest.EditAccountInfo",
+  "children": [
+    "66838e33-57fd-4bf7-95b5-dc227c64d96b-tr-0-1007"
+  ],
+  "befores": [
+    {
+      "name": "BeforeAllMethods",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642675063969,
+      "stop": 1642675063969
+    },
+    {
+      "name": "BeforeEachMethod",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642675063969,
+      "stop": 1642675063969
+    }
+  ],
+  "afters": [
+    {
+      "name": "AfterEachMethod",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642675063969,
+      "stop": 1642675063969
+    }
+  ],
+  "links": [],
+  "start": 1642675000239,
+  "stop": 1642675064049
+}

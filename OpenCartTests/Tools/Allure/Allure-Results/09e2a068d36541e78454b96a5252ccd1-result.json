@@ -1,0 +1,80 @@
+{
+  "uuid": "affdd803-8208-4861-86c6-e25a70922b9a-tr-0-1002",
+  "historyId": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.ProductPagePriceChangingDependingOnCurrency",
+  "fullName": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.ProductPagePriceChangingDependingOnCurrency",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-3I1UEGC"
+    },
+    {
+      "name": "package",
+      "value": "OpenCartTests.Tests.Yurii_Kanafotskyi"
+    },
+    {
+      "name": "testMethod",
+      "value": "ProductPagePriceChangingDependingOnCurrency"
+    },
+    {
+      "name": "testClass",
+      "value": "CurrencyTests"
+    },
+    {
+      "name": "tag",
+      "value": "Currency"
+    },
+    {
+      "name": "tag",
+      "value": "Currency"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "KfN"
+    }
+  ],
+  "links": [],
+  "name": "ProductPagePriceChangingDependingOnCurrency",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "ProductPagePriceChangingDependingOnCurrency"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ProductPagePriceChangingDependingOnCurrency",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "85711912d0ab4c25875155a151452a8a-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1642624279007,
+      "stop": 1642624340826
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1642624279007,
+  "stop": 1642624340826
+}

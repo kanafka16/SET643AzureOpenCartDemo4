@@ -1,0 +1,80 @@
+{
+  "uuid": "2a6c1979-7df0-4b34-ad82-ec440672d1f2-tr-0-1009",
+  "historyId": "OpenCartTests.Tests.Yurii_Kanafotskyi.RegistrationTest.RegisterExistingUser",
+  "fullName": "OpenCartTests.Tests.Yurii_Kanafotskyi.RegistrationTest.RegisterExistingUser",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-3I1UEGC"
+    },
+    {
+      "name": "package",
+      "value": "OpenCartTests.Tests.Yurii_Kanafotskyi"
+    },
+    {
+      "name": "testMethod",
+      "value": "RegisterExistingUser"
+    },
+    {
+      "name": "testClass",
+      "value": "RegistrationTest"
+    },
+    {
+      "name": "tag",
+      "value": "RegisterAccount"
+    },
+    {
+      "name": "tag",
+      "value": "RegisterAccount"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "KfN"
+    }
+  ],
+  "links": [],
+  "name": "RegisterExistingUser",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "RegisterExistingUser"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "RegisterExistingUser",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "4b156609a7e94bd8ad8e66d884c9df1b-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1642625355572,
+      "stop": 1642625395487
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1642625355566,
+  "stop": 1642625395520
+}

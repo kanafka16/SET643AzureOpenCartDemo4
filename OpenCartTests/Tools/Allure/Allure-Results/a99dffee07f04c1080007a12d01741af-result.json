@@ -1,0 +1,80 @@
+{
+  "uuid": "4fc91f3e-1d73-4728-8d2c-d182a9569c6d-tr-0-1003",
+  "historyId": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.WishListPriceChangingDependingOnCurrency",
+  "fullName": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.WishListPriceChangingDependingOnCurrency",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-3I1UEGC"
+    },
+    {
+      "name": "package",
+      "value": "OpenCartTests.Tests.Yurii_Kanafotskyi"
+    },
+    {
+      "name": "testMethod",
+      "value": "WishListPriceChangingDependingOnCurrency"
+    },
+    {
+      "name": "testClass",
+      "value": "CurrencyTests"
+    },
+    {
+      "name": "tag",
+      "value": "Currency"
+    },
+    {
+      "name": "tag",
+      "value": "Currency"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "KfN"
+    }
+  ],
+  "links": [],
+  "name": "WishListPriceChangingDependingOnCurrency",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "WishListPriceChangingDependingOnCurrency"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "WishListPriceChangingDependingOnCurrency",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "7a6caa594bf0416fb66ce2c393d1ff11-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1642624340843,
+      "stop": 1642624460906
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1642624340843,
+  "stop": 1642624460906
+}

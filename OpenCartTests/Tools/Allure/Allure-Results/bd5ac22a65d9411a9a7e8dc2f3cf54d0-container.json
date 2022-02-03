@@ -1,0 +1,59 @@
+{
+  "uuid": "2e5ca280-5006-4207-b991-8950363631fd-tc-0-1000",
+  "name": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.HomePageFirstProductPriceDependingOnCurrency",
+  "children": [
+    "1b340067-87a3-42ff-a566-63d9704aef5c-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "BeforeAllMethods",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642624278985,
+      "stop": 1642624278985
+    },
+    {
+      "name": "BeforeEachMethod",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642624278985,
+      "stop": 1642624278985
+    }
+  ],
+  "afters": [
+    {
+      "name": "AfterEachMethod",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642624278985,
+      "stop": 1642624278985
+    }
+  ],
+  "links": [],
+  "start": 1642624266339,
+  "stop": 1642624278994
+}

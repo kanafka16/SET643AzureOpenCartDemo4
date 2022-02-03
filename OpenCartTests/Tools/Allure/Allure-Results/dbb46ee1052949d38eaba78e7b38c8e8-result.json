@@ -1,0 +1,80 @@
+{
+  "uuid": "9f334b80-5b2c-48e1-aea6-edf0a1188ca3-tr-0-1004",
+  "historyId": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.CartPriceChangingDependingOnCurrency",
+  "fullName": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.CartPriceChangingDependingOnCurrency",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-3I1UEGC"
+    },
+    {
+      "name": "package",
+      "value": "OpenCartTests.Tests.Yurii_Kanafotskyi"
+    },
+    {
+      "name": "testMethod",
+      "value": "CartPriceChangingDependingOnCurrency"
+    },
+    {
+      "name": "testClass",
+      "value": "CurrencyTests"
+    },
+    {
+      "name": "tag",
+      "value": "Currency"
+    },
+    {
+      "name": "tag",
+      "value": "Currency"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "KfN"
+    }
+  ],
+  "links": [],
+  "name": "CartPriceChangingDependingOnCurrency",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "CartPriceChangingDependingOnCurrency"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "CartPriceChangingDependingOnCurrency",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "e7116d269c524f629f42594b81507551-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1642624200340,
+      "stop": 1642624250378
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1642624200339,
+  "stop": 1642624250421
+}

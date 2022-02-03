@@ -1,0 +1,83 @@
+{
+  "uuid": "66838e33-57fd-4bf7-95b5-dc227c64d96b-tr-0-1007",
+  "historyId": "OpenCartTests.Tests.Yurii_Kanafotskyi.EditAccountTest.EditAccountInfo",
+  "fullName": "OpenCartTests.Tests.Yurii_Kanafotskyi.EditAccountTest.EditAccountInfo",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-3I1UEGC"
+    },
+    {
+      "name": "package",
+      "value": "OpenCartTests.Tests.Yurii_Kanafotskyi"
+    },
+    {
+      "name": "testMethod",
+      "value": "EditAccountInfo"
+    },
+    {
+      "name": "testClass",
+      "value": "EditAccountTest"
+    },
+    {
+      "name": "tag",
+      "value": "EditAccount"
+    },
+    {
+      "name": "tag",
+      "value": "EditAccount"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "KfN"
+    }
+  ],
+  "links": [],
+  "name": "EditAccountInfo",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div.alert.alert-success.alert-dismissible\"}\n  (Session info: chrome=97.0.4692.71)",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)\r\n   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)\r\n   at OpenQA.Selenium.By.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.WebDriver.FindElement(By by)\r\n   at OpenCartTests.Pages.EditAccountPage.get_AccountUpdatedText() in C:\\Users\\yurii\\SET643_OpenCart\\OpenCartTests\\Pages\\EditAccountPage.cs:line 13\r\n   at OpenCartTests.Pages.EditAccountPage.GetAccountUpdatedMessageText() in C:\\Users\\yurii\\SET643_OpenCart\\OpenCartTests\\Pages\\EditAccountPage.cs:line 56\r\n   at OpenCartTests.Tests.Yurii_Kanafotskyi.EditAccountTest.EditAccountInfo() in C:\\Users\\yurii\\SET643_OpenCart\\OpenCartTests\\Tests\\Yurii Kanafotskyi\\EditAccountTest.cs:line 60"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "EditAccountInfo",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div.alert.alert-success.alert-dismissible\"}\n  (Session info: chrome=97.0.4692.71)",
+        "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)\r\n   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)\r\n   at OpenQA.Selenium.By.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.WebDriver.FindElement(By by)\r\n   at OpenCartTests.Pages.EditAccountPage.get_AccountUpdatedText() in C:\\Users\\yurii\\SET643_OpenCart\\OpenCartTests\\Pages\\EditAccountPage.cs:line 13\r\n   at OpenCartTests.Pages.EditAccountPage.GetAccountUpdatedMessageText() in C:\\Users\\yurii\\SET643_OpenCart\\OpenCartTests\\Pages\\EditAccountPage.cs:line 56\r\n   at OpenCartTests.Tests.Yurii_Kanafotskyi.EditAccountTest.EditAccountInfo() in C:\\Users\\yurii\\SET643_OpenCart\\OpenCartTests\\Tests\\Yurii Kanafotskyi\\EditAccountTest.cs:line 60"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "1fde0e9cdaa34d03aa18ae4b21f9ba9c-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1642675000246,
+      "stop": 1642675063980
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1642675000243,
+  "stop": 1642675063991
+}

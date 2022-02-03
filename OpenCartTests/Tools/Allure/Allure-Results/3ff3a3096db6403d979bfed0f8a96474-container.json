@@ -1,0 +1,59 @@
+{
+  "uuid": "75071e46-9c1a-4a2a-8133-bb41ce06da61-tc-0-1000",
+  "name": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.WishListPriceChangingDependingOnCurrency",
+  "children": [
+    "4fc91f3e-1d73-4728-8d2c-d182a9569c6d-tr-0-1003"
+  ],
+  "befores": [
+    {
+      "name": "BeforeAllMethods",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642624460904,
+      "stop": 1642624460904
+    },
+    {
+      "name": "BeforeEachMethod",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642624460904,
+      "stop": 1642624460904
+    }
+  ],
+  "afters": [
+    {
+      "name": "AfterEachMethod",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642624460905,
+      "stop": 1642624460905
+    }
+  ],
+  "links": [],
+  "start": 1642624340843,
+  "stop": 1642624460912
+}

@@ -1,0 +1,84 @@
+{
+  "uuid": "9ab7d2bc-bb5c-4bfc-a81e-91733308d917-tr-0-1005",
+  "historyId": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.ChangeableCurrencySymbol",
+  "fullName": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.ChangeableCurrencySymbol",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-3I1UEGC"
+    },
+    {
+      "name": "package",
+      "value": "OpenCartTests.Tests.Yurii_Kanafotskyi"
+    },
+    {
+      "name": "testMethod",
+      "value": "ChangeableCurrencySymbol"
+    },
+    {
+      "name": "testClass",
+      "value": "CurrencyTests"
+    },
+    {
+      "name": "tag",
+      "value": "Currency"
+    },
+    {
+      "name": "tag",
+      "value": "Currency"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "KfN"
+    }
+  ],
+  "links": [],
+  "name": "ChangeableCurrencySymbol",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.WebDriverException : unknown error: net::ERR_CONNECTION_REFUSED\n  (Session info: chrome=97.0.4692.71)",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.set_Url(String value)\r\n   at OpenQA.Selenium.Navigator.GoToUrl(String url)\r\n   at OpenCartTests.Tools.TestRunner.BeforeEachMethod() in C:\\Users\\yurii\\SET643_OpenCart\\OpenCartTests\\Tools\\TestRunner.cs:line 25"
+  },
+  "stage": "finished",
+  "description": "\nBeforeEachMethod SetUp method failed\n",
+  "steps": [
+    {
+      "name": "ChangeableCurrencySymbol skipped because of BeforeAllMethods failure",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.WebDriverException : unknown error: net::ERR_CONNECTION_REFUSED\n  (Session info: chrome=97.0.4692.71)",
+        "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.set_Url(String value)\r\n   at OpenQA.Selenium.Navigator.GoToUrl(String url)\r\n   at OpenCartTests.Tools.TestRunner.BeforeEachMethod() in C:\\Users\\yurii\\SET643_OpenCart\\OpenCartTests\\Tools\\TestRunner.cs:line 25"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "0efa3126f6c8491987fdc56e1cc079ff-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1642619465835,
+      "stop": 1642619496890
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1642619465835,
+  "stop": 1642619496891
+}

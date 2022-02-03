@@ -1,0 +1,80 @@
+{
+  "uuid": "cbfa91bb-5588-4f68-9ddc-20affe553397-tr-0-1005",
+  "historyId": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.ChangeableCurrencySymbol",
+  "fullName": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.ChangeableCurrencySymbol",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-3I1UEGC"
+    },
+    {
+      "name": "package",
+      "value": "OpenCartTests.Tests.Yurii_Kanafotskyi"
+    },
+    {
+      "name": "testMethod",
+      "value": "ChangeableCurrencySymbol"
+    },
+    {
+      "name": "testClass",
+      "value": "CurrencyTests"
+    },
+    {
+      "name": "tag",
+      "value": "Currency"
+    },
+    {
+      "name": "tag",
+      "value": "Currency"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "KfN"
+    }
+  ],
+  "links": [],
+  "name": "ChangeableCurrencySymbol",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "ChangeableCurrencySymbol"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ChangeableCurrencySymbol",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "1b418526e0d64dd19d761c2c9d602e72-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1642680129603,
+      "stop": 1642680145263
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1642680129602,
+  "stop": 1642680145323
+}

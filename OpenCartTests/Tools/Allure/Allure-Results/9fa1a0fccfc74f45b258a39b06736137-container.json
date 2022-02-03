@@ -1,0 +1,59 @@
+{
+  "uuid": "9073a138-51cf-4fb2-8e21-87687d4a5d0d-tc-0-1000",
+  "name": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.ChangeableCurrencySymbol",
+  "children": [
+    "6b2506aa-202b-46f7-8635-67b63edd5f92-tr-0-1005"
+  ],
+  "befores": [
+    {
+      "name": "BeforeAllMethods",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642624266319,
+      "stop": 1642624266319
+    },
+    {
+      "name": "BeforeEachMethod",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642624266319,
+      "stop": 1642624266319
+    }
+  ],
+  "afters": [
+    {
+      "name": "AfterEachMethod",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642624266319,
+      "stop": 1642624266319
+    }
+  ],
+  "links": [],
+  "start": 1642624250716,
+  "stop": 1642624266328
+}

@@ -1,0 +1,80 @@
+{
+  "uuid": "1b340067-87a3-42ff-a566-63d9704aef5c-tr-0-1001",
+  "historyId": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.HomePageFirstProductPriceDependingOnCurrency",
+  "fullName": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.HomePageFirstProductPriceDependingOnCurrency",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-3I1UEGC"
+    },
+    {
+      "name": "package",
+      "value": "OpenCartTests.Tests.Yurii_Kanafotskyi"
+    },
+    {
+      "name": "testMethod",
+      "value": "HomePageFirstProductPriceDependingOnCurrency"
+    },
+    {
+      "name": "testClass",
+      "value": "CurrencyTests"
+    },
+    {
+      "name": "tag",
+      "value": "Currency"
+    },
+    {
+      "name": "tag",
+      "value": "Currency"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "KfN"
+    }
+  ],
+  "links": [],
+  "name": "HomePageFirstProductPriceDependingOnCurrency",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "HomePageFirstProductPriceDependingOnCurrency"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "HomePageFirstProductPriceDependingOnCurrency",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "9a82edd3bc18455483538ab164224f81-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1642624266339,
+      "stop": 1642624278989
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1642624266339,
+  "stop": 1642624278989
+}

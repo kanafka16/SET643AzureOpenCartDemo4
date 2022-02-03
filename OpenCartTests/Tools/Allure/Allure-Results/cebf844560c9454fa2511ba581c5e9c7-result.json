@@ -1,0 +1,80 @@
+{
+  "uuid": "0a6a72e2-ff60-496d-b01b-f545fad16100-tr-0-1007",
+  "historyId": "OpenCartTests.Tests.Yurii_Kanafotskyi.EditAccountTest.EditAccountInfo",
+  "fullName": "OpenCartTests.Tests.Yurii_Kanafotskyi.EditAccountTest.EditAccountInfo",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-3I1UEGC"
+    },
+    {
+      "name": "package",
+      "value": "OpenCartTests.Tests.Yurii_Kanafotskyi"
+    },
+    {
+      "name": "testMethod",
+      "value": "EditAccountInfo"
+    },
+    {
+      "name": "testClass",
+      "value": "EditAccountTest"
+    },
+    {
+      "name": "tag",
+      "value": "EditAccount"
+    },
+    {
+      "name": "tag",
+      "value": "EditAccount"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "KfN"
+    }
+  ],
+  "links": [],
+  "name": "EditAccountInfo",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "EditAccountInfo"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "EditAccountInfo",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "4dcdd8a7f953400f87440e4b8254fc4e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1642675189114,
+      "stop": 1642675242233
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1642675189113,
+  "stop": 1642675242252
+}

@@ -1,0 +1,61 @@
+{
+  "uuid": "d21ede05-534d-433a-851a-94ba9e73e9ad-tc-0-1000",
+  "name": "OpenCartTests.Tests.Yurii_Kanafotskyi.CurrencyTests.WishListPriceChangingDependingOnCurrency",
+  "children": [
+    "a183f24f-b1af-4a31-8ae9-09a999997819-tr-0-1003"
+  ],
+  "befores": [
+    {
+      "name": "BeforeAllMethods",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642619665674,
+      "stop": 1642619665674
+    },
+    {
+      "name": "BeforeEachMethod",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.WebDriverException : unknown error: net::ERR_CONNECTION_REFUSED\n  (Session info: chrome=97.0.4692.71)",
+        "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.set_Url(String value)\r\n   at OpenQA.Selenium.Navigator.GoToUrl(String url)\r\n   at OpenCartTests.Tools.TestRunner.BeforeEachMethod() in C:\\Users\\yurii\\SET643_OpenCart\\OpenCartTests\\Tools\\TestRunner.cs:line 25"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642619665674,
+      "stop": 1642619665674
+    }
+  ],
+  "afters": [
+    {
+      "name": "AfterEachMethod",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1642619665674,
+      "stop": 1642619665674
+    }
+  ],
+  "links": [],
+  "start": 1642619590516,
+  "stop": 1642619665679
+}
