@@ -73,9 +73,8 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
                                     .SuccessfullLogin(user)
                                     .GoToHomePage()
                                     .GetFirstProductDetails();
-
+            
             pdp.AddToWishList();
-            Thread.Sleep(6000);
             pdp.GoToWishPage();
 
             string expected = new WishListPage(driver).GetWishListFirstProductPrice();

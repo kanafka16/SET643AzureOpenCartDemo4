@@ -19,6 +19,8 @@ namespace OpenCartTests.Tools
         public void BeforeEachMethod()
         {
             ChromeOptions options = new ChromeOptions();
+            options.AddArgument("window-size=1920,1080");
+            options.AddArgument("start-maximized");
             options.AddArgument("headless");
             options.AddArgument("disable-gpu");
             options.AddArgument("no-sandbox");
