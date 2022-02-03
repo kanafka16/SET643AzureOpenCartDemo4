@@ -24,7 +24,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
             user = User.CreateBuilder()
                 .SetFirstName("Yurii")
                 .SetLastName("Hoidyk")
-                .SetEMail("yurii.hoidykkk@gmail.com")
+                .SetEMail("yurii.hoidykkkk@gmail.com")
                 .SetTelephone("0637866103")
                 .SetPassword("seva_noob")
                 .Build();
@@ -32,7 +32,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
             userEdited = User.CreateBuilder()
                 .SetFirstName("Ostap")
                 .SetLastName("Nikolaev")
-                .SetEMail("seva.android@mail.ru")
+                .SetEMail("seva.androidd@mail.ru")
                 .SetTelephone("0637866104")
                 .SetPassword("seva_pro")
                 .Build();
