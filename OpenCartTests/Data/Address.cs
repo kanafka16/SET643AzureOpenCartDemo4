@@ -8,6 +8,7 @@ namespace OpenCartTests.Data
 {
     public class Address
     {
+
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Adress1 { get; set; }
