@@ -29,7 +29,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
                 .Build();
         }
 
-        [Test]
+        [Test, Order(1)]
         [AllureTag("Currency")]
         [AllureSeverity(SeverityLevel.normal)]
         [AllureOwner("KfN")]
@@ -44,7 +44,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
             Assert.AreNotEqual(expected, actual);
         }
 
-        [Test]
+        [Test, Order(2)]
         [AllureTag("Currency")]
         [AllureSeverity(SeverityLevel.normal)]
         [AllureOwner("KfN")]
@@ -62,7 +62,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
             Assert.AreNotEqual(expected, actual);
         }
 
-        [Test]
+        [Test, Order(4)]
         [AllureTag("Currency")]
         [AllureSeverity(SeverityLevel.normal)]
         [AllureOwner("KfN")]
@@ -85,7 +85,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
             Assert.AreNotEqual(expected, actual);
         }
 
-        [Test]
+        [Test, Order(5)]
         [AllureTag("Currency")]
         [AllureSeverity(SeverityLevel.normal)]
         [AllureOwner("KfN")]
@@ -108,7 +108,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
             Assert.AreNotEqual(expected, actual);
         }
 
-        [Test]
+        [Test, Order(3)]
         [AllureTag("Currency")]
         [AllureSeverity(SeverityLevel.normal)]
         [AllureOwner("KfN")]

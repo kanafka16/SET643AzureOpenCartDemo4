@@ -26,8 +26,8 @@ namespace OpenCartTests.Tests.Nazar_Dykyy
           user = User.CreateBuilder()
               .SetFirstName("Nazar")
               .SetLastName("Dykyy")
-              .SetEMail("n.dykyy@gmail.com")
-              .SetTelephone("0980201806")
+              .SetEMail("n_dykyy@gmail.com")
+              .SetTelephone("0980201809")
               .SetPassword("qwerty")
               .Build();
             user1 = User.CreateBuilder()
@@ -39,7 +39,7 @@ namespace OpenCartTests.Tests.Nazar_Dykyy
              .Build();
 
         }
-        [Test]
+        [Test, Order(1)]
         public void EmptyWishListAfterFirstLogin()
         {
             
@@ -58,7 +58,7 @@ namespace OpenCartTests.Tests.Nazar_Dykyy
             Assert.IsTrue(actual.Contains("Your wish list is empty."));
 
         }
-        [Test]
+        [Test, Order(2)]
         public void InaccessibleWishListWithoutLogging()
         {
             string expected = LOGIN_URL;
@@ -70,7 +70,7 @@ namespace OpenCartTests.Tests.Nazar_Dykyy
             Assert.IsTrue(actual.Contains(expected));
 
         }
-        [Test]
+        [Test, Order(3)]
         public void AddProductToWishList()
         {
             
@@ -87,7 +87,7 @@ namespace OpenCartTests.Tests.Nazar_Dykyy
             Assert.IsTrue(actual.Contains("You have added MacBook to your wish list!"));
 
         }
-        [Test]
+        [Test, Order(4)]
         public void DeleteFromWishList()
         {
            
@@ -104,7 +104,7 @@ namespace OpenCartTests.Tests.Nazar_Dykyy
 
 
         }     
-        [Test]
+        [Test, Order(5)]
         public void SavedProductInWishListAfterLogout()
         {
 
