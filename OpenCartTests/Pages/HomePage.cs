@@ -6,15 +6,13 @@ namespace OpenCartTests.Pages
     public class HomePage : AHeadComponent
     {
         public IList<IWebElement> Products { get; private set; }
-        public IWebElement CurrencySymbol { get; private set; }
-        public IWebElement ShoppingCartButtonHome { get; private set; }
+        public IWebElement CurrencySymbol { get { return driver.FindElement(By.TagName("strong")); } }
+        public IWebElement ShoppingCartButtonHome { get { return driver.FindElement(By.CssSelector("#content .product-layout:first-child .button-group button[onclick*='cart']")); } }
         public IWebElement FeaturedFirstProductPrice { get { return driver.FindElement(By.CssSelector(".price")); } }
+
         public HomePage(IWebDriver driver) : base(driver) 
         {
             Products = driver.FindElements(By.CssSelector(".product-layout"));
-            
-            CurrencySymbol = driver.FindElement(By.TagName("strong"));
-            ShoppingCartButtonHome = driver.FindElement(By.CssSelector("#content .product-layout:first-child .button-group button[onclick*='cart']"));
         }
 
         public void ClickOnFirstProduct() => Products[0].Click();

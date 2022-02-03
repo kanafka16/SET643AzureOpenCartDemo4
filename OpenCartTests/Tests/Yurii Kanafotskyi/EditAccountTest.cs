@@ -24,7 +24,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
             user = User.CreateBuilder()
                 .SetFirstName("Yurii")
                 .SetLastName("Hoidyk")
-                .SetEMail("yurii.hoidykk@gmail.com")
+                .SetEMail("yurii.hoidykkk@gmail.com")
                 .SetTelephone("0637866103")
                 .SetPassword("seva_noob")
                 .Build();
