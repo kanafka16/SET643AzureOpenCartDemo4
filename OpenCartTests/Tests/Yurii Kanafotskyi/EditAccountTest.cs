@@ -1,4 +1,4 @@
-﻿using NUnit.Framework;
+﻿/*using NUnit.Framework;
 using OpenCartTests.Data;
 using OpenCartTests.Pages;
 using OpenCartTests.Tools;
@@ -24,7 +24,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
             user = User.CreateBuilder()
                 .SetFirstName("Yurii")
                 .SetLastName("Hoidyk")
-                .SetEMail("yurii.hoidykkkk@gmail.com")
+                .SetEMail("yurii.hoidykkkkk@gmail.com")
                 .SetTelephone("0637866103")
                 .SetPassword("seva_noob")
                 .Build();
@@ -32,7 +32,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
             userEdited = User.CreateBuilder()
                 .SetFirstName("Ostap")
                 .SetLastName("Nikolaev")
-                .SetEMail("seva.androidd@mail.ru")
+                .SetEMail("seva.androiddd@mail.ru")
                 .SetTelephone("0637866104")
                 .SetPassword("seva_pro")
                 .Build();
@@ -62,4 +62,4 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
             Assert.AreEqual(expected, actual);
         }
     }
-}
+}*/
