@@ -1,4 +1,4 @@
-/*using NUnit.Framework;
+using NUnit.Framework;
 using OpenCartTests.Data;
 using OpenCartTests.Pages;
 using OpenCartTests.Tools;
@@ -26,7 +26,7 @@ namespace OpenCartTests.Tests.Nazar_Dykyy
           user = User.CreateBuilder()
               .SetFirstName("Nazar")
               .SetLastName("Dykyy")
-              .SetEMail("ndykyyyyyy@gmail.com")
+              .SetEMail("ndykyyyyyyy@gmail.com")
               .SetTelephone("0980201809")
               .SetPassword("qwerty")
               .Build();
@@ -127,4 +127,4 @@ namespace OpenCartTests.Tests.Nazar_Dykyy
             Assert.IsTrue(actual.Contains("Image"));
           }     
     }
-}*/
+}

@@ -29,7 +29,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
                 .SetPassword("seva_noob")
                 .Build();
         }
-        /*
+        
         [Test, Order(1)]
         [AllureTag("Currency")]
         [AllureSeverity(SeverityLevel.normal)]
@@ -108,7 +108,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
 
             Assert.AreNotEqual(expected, actual);
         }
-        */
+        
         [Test, Order(3)]
         [AllureTag("Currency")]
         [AllureSeverity(SeverityLevel.normal)]
