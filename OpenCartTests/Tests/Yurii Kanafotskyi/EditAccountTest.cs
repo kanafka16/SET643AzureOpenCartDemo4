@@ -1,4 +1,4 @@
-﻿/*using NUnit.Framework;
+﻿using NUnit.Framework;
 using OpenCartTests.Data;
 using OpenCartTests.Pages;
 using OpenCartTests.Tools;
@@ -38,6 +38,7 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
                 .Build();
         }
 
+        /*
         [Test]
         [AllureTag("EditAccount")]
         [AllureSeverity(SeverityLevel.normal)]
@@ -60,6 +61,6 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
             string actual = editPage.GetAccountUpdatedMessageText();
 
             Assert.AreEqual(expected, actual);
-        }
+        }*/
     }
-}*
+}
