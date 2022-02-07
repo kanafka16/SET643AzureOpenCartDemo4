@@ -5,7 +5,6 @@ using OpenCartTests.Tools;
 using Allure.Commons;
 using NUnit.Allure.Attributes;
 using NUnit.Allure.Core;
-using System.Threading;
 
 namespace OpenCartTests.Tests.Yurii_Kanafotskyi
 {
