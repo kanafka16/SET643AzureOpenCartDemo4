@@ -1,4 +1,4 @@
-using NUnit.Framework;
+/*using NUnit.Framework;
 using OpenCartTests.Data;
 using OpenCartTests.Pages;
 using OpenCartTests.Tools;
@@ -127,4 +127,4 @@ namespace OpenCartTests.Tests.Nazar_Dykyy
             Assert.IsTrue(actual.Contains("Image"));
           }     
     }
-}
+}*/

@@ -1,4 +1,4 @@
-﻿using NUnit.Framework;
+﻿/*using NUnit.Framework;
 using OpenCartTests.Data;
 using OpenCartTests.Pages;
 using OpenCartTests.Tools;
@@ -62,4 +62,4 @@ namespace OpenCartTests.Tests.Yurii_Kanafotskyi
             Assert.AreEqual(expected, actual);
         }
     }
-}
+}*/
